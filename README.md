@@ -8,9 +8,9 @@
 * Say you want to do hello world application, you run `cargo new hello`, this will generate a tree structure like following
 .<br/>
 ├── hello<br/>
-│   ├── Cargo.toml<br/>
-│   └── src<br/>
-│       └── main.rs<br/>
+│├── Cargo.toml<br/>
+│&nbsp;&nbsp;└── src<br/>
+│&nbsp;&nbsp;&nbsp;└── main.rs<br/>
 ├── LICENSE<br/>
 ├── Makefile<br/>
 └── README.md<br/>

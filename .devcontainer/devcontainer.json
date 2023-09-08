@@ -35,7 +35,8 @@
 				"rust-lang.rust-analyzer",
 				"GitHub.copilot-nightly",
 				"GitHub.copilot-labs",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"GitHub.copilot-chat"
 			]
 		}
 	},

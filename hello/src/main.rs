@@ -7,7 +7,17 @@ fn add_three_numbers(a: i32, b: i32, c: i32) -> i32 {
     a + b + c
 }
 
+/*
+Uses my_logi.rs to add all the elements of a vector together
+*/
+mod my_logic;
+
 fn main() {
+    println!(
+        " The sum of the elements of the vector is: {}",
+        my_logic::sum()
+    );
+
     let a = 3;
     let b = 4;
     let c = add_two_numbers(a, b);
@@ -21,4 +31,3 @@ fn main() {
     let g = add_three_numbers(d, e, f);
     println!("{} + {} + {} = {}", d, e, f, g);
 }
-

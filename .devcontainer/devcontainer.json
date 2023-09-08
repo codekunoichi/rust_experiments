@@ -33,10 +33,10 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"rust-lang.rust-analyzer",
-				"GitHub.copilot-nightly",
-				"GitHub.copilot-labs",
+				//"GitHub.copilot-nightly",
+				//"GitHub.copilot-labs",
 				"ms-vscode.makefile-tools",
-				"GitHub.copilot-chat",
+				//"GitHub.copilot-chat",
 				"amazonwebservices.aws-toolkit-vscode",
 				"github.vscode-github-actions"
 			]

@@ -15,6 +15,7 @@ jobs:
           components: clippy, rustfmt
           override: true
       - name: Run clippy
+        working-directory: ./hello 
         run: make lint
   
 

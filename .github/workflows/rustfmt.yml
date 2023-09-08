@@ -15,4 +15,5 @@ jobs:
           components: clippy, rustfmt
           override: true
       - name: Run rustfmt
+        working-directory: ./hello
         run: make format

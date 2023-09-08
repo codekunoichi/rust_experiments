@@ -37,7 +37,8 @@
 				"GitHub.copilot-labs",
 				"ms-vscode.makefile-tools",
 				"GitHub.copilot-chat",
-				"amazonwebservices.aws-toolkit-vscode"
+				"amazonwebservices.aws-toolkit-vscode",
+				"github.vscode-github-actions"
 			]
 		}
 	},

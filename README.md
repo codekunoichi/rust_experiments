@@ -7,14 +7,14 @@
 * Create project using `cargo` command.
 * Say you want to do hello world application, you run `cargo new hello`, this will generate a tree structure like following
 
-.
-├── hello
-│   ├── Cargo.toml
-│   └── src
-│       └── main.rs
-├── LICENSE
-├── Makefile
-└── README.md
+.<br/>
+├── hello <br/>
+│   ├── Cargo.toml <br/>
+│   └── src <br/>
+│       └── main.rs <br/>
+├── LICENSE <br/>
+├── Makefile <br/>
+└── README.md <br/>
 * Lets deconstruct the directory structure:
 
 - `Cargo.toml` - Is like the requirements.txt - which describes your dependencies etc.
